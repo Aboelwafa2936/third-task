@@ -1,0 +1,55 @@
+.header{
+    background-color:#363062;
+    padding: 10px;
+   text-transform: capitalize;
+   font-size: 15px;
+   color: #ce00fff5;
+}
+
+.part1{
+    background-color: #435585;
+    
+}
+
+.messi{
+   display: inline-block;
+   background-color: #818FB4;
+   padding: 18px;
+   margin: 28px;
+   width: 204px;
+ 
+   
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 27px;
+}
+
+.name{
+    color: #7b3f00;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.part2{
+    background-image: url("ocean-3605547_640.jpg");
+    text-align: center;
+    text-transform: capitalize;
+    color: #009688;
+    font-size: 30px;
+}
+
+.footer{
+    font-family: 'press start 2p';
+    background-color: #F5E8C7;
+    color: #0B978B;
+    height: 44px;
+    text-transform: capitalize;
+    margin: 0 0;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 2px 2px 5px #0B978B;
+}
